@@ -1,0 +1,33 @@
+PROPRIETARY SOFTWARE LICENCE
+
+Copyright © 2026 Relay Labs Ltd, Dublin, Ireland. All rights reserved.
+
+Veritome (also referred to in this repository as AIComply) — including all source
+code, database schemas, migrations, design tokens, documentation, and
+accompanying materials in this repository (together, the "Software") — is the
+confidential and proprietary property of Relay Labs Ltd.
+
+NO LICENCE IS GRANTED. No right or licence, express or implied, is granted to
+any person to use, copy, modify, merge, publish, distribute, sublicense, sell,
+reverse engineer, or create derivative works of the Software, in whole or in
+part, by any means or in any form.
+
+PUBLIC VISIBILITY IS NOT A LICENCE. If this repository, or any mirror or
+excerpt of it, is made publicly visible on GitHub or elsewhere, that visibility
+is for information, evaluation and demonstration only. It does not place the
+Software in the public domain, does not make it open source, and does not grant
+any of the rights withheld above.
+
+THIRD-PARTY COMPONENTS. The Software incorporates third-party open-source
+components, each of which remains subject to its own licence. Those licences
+apply to those components only and confer no rights in the Software as a whole.
+
+NO WARRANTY. The Software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and non-infringement. In no
+event shall Relay Labs Ltd be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from, out of or in
+connection with the Software or the use or other dealings in the Software.
+
+For licensing enquiries, pilot access, or permission to use any part of the
+Software, contact hello@relaylabs.ie.
