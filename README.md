@@ -18,6 +18,8 @@ Built in Europe · Hosted in Europe · GDPR-native · **Launching September 2026
 
 ---
 
+![](C:\Users\tomis\My Drive\Veritome Project\Launch campaign\Veritome Marketing Campaign Assets\export\product-hunt\veritomephassets\veritome-ph-01-hero.png)
+
 ## Why Veritome
 
 The EU AI Act (Regulation (EU) 2024/1689) is the longest regulation Europe has ever
