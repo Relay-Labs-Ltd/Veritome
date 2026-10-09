@@ -5,14 +5,14 @@
 **Classify, document, and track your EU AI Act obligations — system by system, article by article.**
 
 Enterprise-grade compliance depth for European SMEs, at a transparent self-serve price.
-Built in Europe · Hosted in Europe · GDPR-native · **Launching September 2026**
+Built in Europe · Hosted in Europe · GDPR-native · **Free public beta — full launch planned for late November 2026**
 
 [veritome.eu](https://veritome.eu) · [Trust Center](https://veritome.eu/trust) · [Handbook](https://veritome.eu/handbook) · [Free readiness check](https://veritome.eu/apps/readiness-assessment)
 
 </div>
 
 > This is the public overview of **Veritome** by Relay Labs. The application itself is
-> developed in a private repository — for early access ahead of launch, start with the
+> developed in a private repository — to try it during the free public beta, start with the
 > [free readiness assessment](https://veritome.eu/apps/readiness-assessment) or
 > [get in touch](https://veritome.eu/contact).
 
@@ -107,12 +107,12 @@ per-system audit bundles — generated as polished PDFs.
 
 | | |
 |---|---|
-| Platform | Modern web application (Next.js / TypeScript / PostgreSQL) — fast, dependable, continuously tested |
+| Platform | Modern web application — fast, dependable, continuously tested |
 | Data residency | Application, database and file storage hosted in the EU (Germany); AI processing in the EU (France) |
 | Sovereignty | No US sub-processors for compliance-critical data; AI training use contractually excluded |
 | Security | AES-256 at rest, TLS 1.3 in transit, role-based access, rate limiting, hardened security headers |
 | Integrity | SHA-256 hash-sealed documents and certificates with public verification URLs |
-| Disclosure | Published SBOM and vulnerability-disclosure policy — report privately to security@veritome.eu |
+| Disclosure | Vulnerability-disclosure policy and a software bill of materials (full SBOM on request) — report privately to security@veritome.eu |
 
 Full details in the live [Trust Center](https://veritome.eu/trust).
 
@@ -132,8 +132,9 @@ can never drift.
 
 ## About
 
-Veritome is built by **Relay Labs** (Dublin, Ireland) and launches **September 2026**,
-with a founding-members programme open ahead of launch.
+Veritome is built by **Relay Labs** (Dublin, Ireland). It is in a **free public beta**, with the
+full launch planned for **late November 2026** and a founding-members rate for organisations
+that join before launch.
 
 **[veritome.eu](https://veritome.eu)** · [Free readiness check](https://veritome.eu/apps/readiness-assessment) · [Contact](https://veritome.eu/contact)
 
